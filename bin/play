@@ -7,4 +7,14 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 puts "Welcome to Tic Tac Toe!"
 display_board(board)
 
-# Make sure to execute #play below
+
+def play(board)
+  n_spaces = 0   
+while 
+
+
+  board.size.times do |i|
+    if board [i] == ""
+      n_spaces += 1  
+    end 
+  end

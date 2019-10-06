@@ -9,8 +9,7 @@ display_board(board)
 
 
 def play(board)
-  n_spaces = 0   
-while 
+  
 
 
   board.size.times do |i|
